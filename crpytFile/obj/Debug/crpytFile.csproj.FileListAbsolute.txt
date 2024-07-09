@@ -1,0 +1,13 @@
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\bin\Debug\crpytFile.exe.config
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\bin\Debug\crpytFile.exe
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\bin\Debug\crpytFile.pdb
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.Form1.resources
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.Properties.Resources.resources
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.exe
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.pdb
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Beyza\Desktop\goruntuisleme\crpytFile\crpytFile\obj\Debug\crpytFile.csproj.CopyComplete
